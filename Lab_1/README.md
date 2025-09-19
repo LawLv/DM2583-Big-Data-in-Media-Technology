@@ -1,5 +1,6 @@
 # DM2583-Big-Data-in-Media-Technology
 https://docs.google.com/document/d/1deF3GDJ26sSi4Q0MlGMRlqhom3KpeBNmh4a3e1BWwOg/edit?tab=t.0
+https://www.overleaf.com/2853711311mwtgtvwwqcgs#0b3acf
 ## Part 1: EDA and Preprocessing for Text Classification
 
 ### Stage 1: Exploratory Data Analysis (EDA)
